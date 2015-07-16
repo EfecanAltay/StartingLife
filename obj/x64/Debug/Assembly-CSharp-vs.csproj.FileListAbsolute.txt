@@ -1,0 +1,13 @@
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\Assembly-CSharp.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\Assembly-CSharp.pdb
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\UnityEditor.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\UnityEngine.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\UnityEngine.UI.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\Mono.Cecil.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\Unity.SerializationLogic.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\Unity.DataContract.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Efecan\Documents\StartLife\bin\x64\Debug\Unity.CecilTools.dll
+C:\Users\Efecan\Documents\StartLife\obj\x64\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Efecan\Documents\StartLife\obj\x64\Debug\Assembly-CSharp.dll
+C:\Users\Efecan\Documents\StartLife\obj\x64\Debug\Assembly-CSharp.pdb
